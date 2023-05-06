@@ -1,0 +1,61 @@
+.navbar-light .navbar-nav .nav-link {
+    color: black !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #096DD9 ;
+}
+
+.navbar-light .navbar-brand {
+    color: #096DD9 ;
+}
+
+#event-list .card {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 20px;
+}
+
+.navbar-nav .nav-item:last-child {
+    margin-right: 0;
+}
+
+.form-control {
+    width: 250px;
+}
+
+.navbar-nav .nav-link {
+    color: black;
+}
+
+.bg-primary {
+    background-color: #F8F9FA !important;
+}
+
+.navbar-brand {
+    margin-right: auto;
+}
+
+.container {
+    max-width: 100%;
+}
+
+.navbar-login-text {
+    color: #096DD9;
+}
+
+.btn-outline-success {
+    border-radius: 0 50% 50% 0;
+}
+.box {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 10px;
+  }
+  
